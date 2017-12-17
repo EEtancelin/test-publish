@@ -1,0 +1,13 @@
+{
+  "name": "test-publish",
+  "version": "0.0.1",
+  "description": "test Publish",
+  "main": "index.js",
+  "repository": "https://github.com/EEtancelin/test-publish",
+  "author": "EEtancelin",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "ava": "0.24.0"
+  }
+}
